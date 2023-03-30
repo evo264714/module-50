@@ -5,8 +5,6 @@ const Cart = ({cart}) => {
     // const cart = props.cart; //Option 1
     // const {cart} = props; //Option 2
 
-
-    console.log(cart);
     let totalPrice = 0;
     let totalShipping = 0;
 
